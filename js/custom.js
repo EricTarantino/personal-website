@@ -145,7 +145,7 @@
     /* typejs
     -------------------------------------------------------*/
     $('.header .box-text h1 span').typed({
-        strings:["Designer","freelancer","Photographer","Web developer"],
+        strings:["Developer","Freelancer","Creator","Student"],
         loop: true,
         startDelay: 500,
         backDelay: 2000
